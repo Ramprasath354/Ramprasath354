@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ramprasath354
-- 👀 I’m interested in ANIME
 - 🌱 I’m currently learning HOW to code
 
 <!---
